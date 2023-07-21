@@ -15,7 +15,7 @@ export default function OwnedClients() {
                 <div className="text-center">
                   <MoonIcon className="text-gray-400 mx-auto inline-block w-10 mb-4" />
                   <p className="mt-1 text-4xl font-extrabold text-white sm:text-5xl sm:tracking-tight lg:text-6xl">
-                    Minecraft hacker clients that I own
+                    Minecraft hacker clients that I use
                   </p>
                   <p className="max-w-xl mt-5 mx-auto text-xl text-gray-400">
                     I play legit all the time tho!
